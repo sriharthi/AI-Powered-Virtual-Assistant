@@ -136,3 +136,9 @@ Versatile – From jokes to shutdowns, it does it all.
 Customizable – Easy to extend with new features.
 
 Cross-functional – Merges productivity, system control, and fun.
+
+📸 Screenshots
+
+<img width="1366" height="768" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/a7682531-3e08-4b67-bdce-4a49f25b9a45" />
+
+<img width="1366" height="768" alt="Screenshot (594)" src="https://github.com/user-attachments/assets/c4b1f0d7-88b7-4cff-be86-d2e12367b36a" />
