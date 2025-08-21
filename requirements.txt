@@ -1,0 +1,14 @@
+tk
+SpeechRecognition
+pyttsx3
+googletrans==4.0.0rc1
+gTTS
+playsound
+requests
+speedtest-cli
+pyautogui
+opencv-python
+google-generativeai
+python-dotenv
+Pillow
+wikipedia
